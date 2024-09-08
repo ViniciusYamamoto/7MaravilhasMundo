@@ -1,4 +1,4 @@
-## As 7 Maravilhas do Mundo: Uma Aventura de Busca! 
+## As 7 Maravilhas do Mundo: Uma Aventura de Busca!  - Imersão DEV com Google Gemini
 
 **O que é essa aplicação?**
 
